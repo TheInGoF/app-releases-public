@@ -1,0 +1,35 @@
+Lizenz – private Nutzung
+========================
+
+Rechteinhaber: Inhaber des GitHub-Kontos „TheInGoF“ (Entwicklung im privaten Repository).
+Diese Lizenz gilt für den gesamten Quelltext und alle daraus gebauten Programme in diesem
+Repository, soweit nicht ausdrücklich anders gekennzeichnet (siehe „Fremdkomponenten“).
+
+1. Private Nutzung
+   Die Nutzung für eigene, private Zwecke ist kostenlos erlaubt.
+
+2. Berufliche und kommerzielle Nutzung
+   Jede Nutzung im beruflichen, gewerblichen oder kommerziellen Zusammenhang – auch innerhalb
+   eines Unternehmens oder einer Abteilung – ist nur mit vorheriger Zustimmung des
+   Rechteinhabers erlaubt. Die Zustimmung kann formlos erteilt, auf Personen oder Zwecke
+   beschränkt und jederzeit für die Zukunft widerrufen werden.
+
+3. Weitergabe
+   Unveränderte Programme dürfen an andere Personen für deren private Nutzung weitergegeben
+   werden, kostenlos und zusammen mit diesem Lizenzhinweis (Impressum in der App).
+   Verkauf, Veröffentlichung (z. B. zum Download), Weitergabe des Quelltextes sowie die
+   Weitergabe geänderter Fassungen sind nur mit Zustimmung des Rechteinhabers erlaubt.
+
+4. Keine Gewähr
+   Die Software wird ohne Gewähr bereitgestellt. Eine Haftung besteht nur bei Vorsatz und
+   grober Fahrlässigkeit sowie, soweit gesetzlich zwingend, darüber hinaus.
+   Berechnungen (z. B. Lohn, Zuschläge, Verpflegung, Steuer) sind Hilfen und ersetzen keine
+   Lohn-, Steuer- oder Rechtsberatung.
+
+5. Fremdkomponenten
+   Enthaltene Komponenten Dritter stehen unter ihren eigenen Lizenzen, u. a.:
+   - hash-wasm (Argon2) © Dani Biró – MIT-Lizenz
+   - pdf-lib © Andrew Dillon – MIT-Lizenz
+   - Adressdaten © OpenStreetMap-Mitwirkende – ODbL (über OpenPLZ API Data)
+   - SQLite – gemeinfrei; ncruces/go-sqlite3 – MIT; go-webauthn – BSD-3; go-webview2 – MIT;
+     ledongthuc/pdf – BSD-3; golang.org/x – BSD-3; weitere Go-Module laut go.mod unter ihren Lizenzen
