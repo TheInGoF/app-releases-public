@@ -26,6 +26,8 @@ Keine Installation nötig – die Apps sind portabel. Am besten in einen eigenen
 
 **Mac:** Zip entpacken, `Stunden.app` z. B. in „Programme“ ziehen. Beim ersten Start meldet macOS „nicht verifizierter Entwickler“:
 Systemeinstellungen → Datenschutz & Sicherheit → „Dennoch öffnen“ (ältere macOS: Rechtsklick → Öffnen). Nur einmal nötig.
+Meldet macOS stattdessen „beschädigt“, im Terminal einmal `xattr -dr com.apple.quarantine /Applications/Stunden.app` ausführen
+(Pfad anpassen) – danach startet die App. Updates lädt sie anschließend selbst.
 Die App öffnet ein eigenes Fenster, wenn Chrome, Edge, Chromium oder Brave installiert ist, sonst den Standardbrowser.
 
 **Linux:** Datei ausführbar machen (`chmod +x stunden-v…-linux-amd64`) und starten. Eigenes Fenster wie beim Mac,
