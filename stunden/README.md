@@ -28,10 +28,10 @@ Keine Installation nötig – die Apps sind portabel. Am besten in einen eigenen
 Systemeinstellungen → Datenschutz & Sicherheit → „Dennoch öffnen“ (ältere macOS: Rechtsklick → Öffnen). Nur einmal nötig.
 Meldet macOS stattdessen „beschädigt“, im Terminal einmal `xattr -dr com.apple.quarantine /Applications/Stunden.app` ausführen
 (Pfad anpassen) – danach startet die App. Updates lädt sie anschließend selbst.
-Die App öffnet ein eigenes Fenster, wenn Chrome, Edge, Chromium oder Brave installiert ist, sonst den Standardbrowser.
+Eigenes App-Fenster mit Dock-Symbol (macOS 11 oder neuer), kein Browser nötig.
 
-**Linux:** Datei ausführbar machen (`chmod +x stunden-v…-linux-amd64`) und starten. Eigenes Fenster wie beim Mac,
-sonst Standardbrowser. Die App beendet sich einige Minuten nach dem Schließen des Fensters.
+**Linux:** Datei ausführbar machen (`chmod +x stunden-v…-linux-amd64`) und starten. Eigenes Fenster, wenn Chrome,
+Edge, Chromium oder Brave installiert ist, sonst Standardbrowser. Die App beendet sich einige Minuten nach dem Schließen des Fensters.
 
 ## Updates
 
